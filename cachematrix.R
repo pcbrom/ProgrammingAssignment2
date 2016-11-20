@@ -36,3 +36,4 @@ cacheSolve = function(x, ...) {
 # x = matrix(c(1, -1/2, 2/5, 2), nrow = 2, byrow = T)
 # m = makeCacheMatrix(x)
 # cacheSolve(m)
+# update
